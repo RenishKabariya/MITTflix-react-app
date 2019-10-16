@@ -1004,7 +1004,7 @@
       "vote_average": 7.4,
       "vote_count": 11754,
       "popularity": 56.248,
-      "my_list": true
+      "my_list": false
     },
     {
       "adult": false,
@@ -1029,7 +1029,7 @@
       "vote_average": 6.6,
       "vote_count": 603,
       "popularity": 26.89,
-      "my_list": true
+      "my_list": false
     },
     {
       "adult": false,
